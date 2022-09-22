@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomAppBasic</string>
+    <string name="id">ID</string>
+    <string name="song">Song</string>
+    <string name="artist">Artist</string>
+    <string name="year">Year</string>
+    <string name="add">add</string>
+</resources>
